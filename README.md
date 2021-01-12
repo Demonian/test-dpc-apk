@@ -6,3 +6,5 @@ Default port 8080.
 Add prebuilded DPC apk to resource folder with name *test-dpc.apk*
 
 Download url is http://localhost:8080/apk
+
+To start the server use `./gradlew run` command
